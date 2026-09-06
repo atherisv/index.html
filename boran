@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Boran Şahin</title>
+</head>
+<body>
+
+<h1>Emredersiniz Komutanım</h1>
+
+<h2>Şarkılar</h2>
+
+<p>Şarkı 1</p>
+<audio controls>
+  <source src="sarki1.mp3" type="audio/mpeg">
+</audio>
+
+<p>Şarkı 2</p>
+<audio controls>
+  <source src="sarki2.mp3" type="audio/mpeg">
+</audio>
+
+<h2>Videolar</h2>
+
+<video width="300" controls>
+  <source src="video1.mp4" type="video/mp4">
+</video>
+
+<h2>Fotoğraf</h2>
+
+<img src="foto1.jpg" width="300">
+
+</body>
+</html>
